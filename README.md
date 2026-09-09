@@ -28,14 +28,12 @@ Coseeing's shared foundation for these tools is open source at [coseeing/accessi
 
 <br>
 
-**Re-collect** — a social writing platform where another person's work is only partially visible until you rewrite it, or else fades away, and rewriting is what makes it more visible to everyone.
+**[Re-collect](https://github.com/BetaHsu/fyp)** — a social writing platform where another person's work is only partially visible until you rewrite it, or else fades away, and rewriting is what makes it more visible to everyone. Full-stack, built solo as my university final-year project, 2023.
 *Angular, TypeScript, Flask, MongoDB · private*
-
-Full-stack, built solo as my final year project at City University of Hong Kong, 2023.
 
 ---
 
 #### Elsewhere
 
 - LinkedIn: https://www.linkedin.com/in/beta-hsu/
-- Portfolio: https://yunchuhsu.wixsite.com/ux-design/projects
+- UX Portfolio: https://yunchuhsu.wixsite.com/ux-design/projects
